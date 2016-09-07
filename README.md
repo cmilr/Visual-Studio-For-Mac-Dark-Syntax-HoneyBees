@@ -22,7 +22,7 @@ these days.
 
 ## Meta
 
-Cary Miller – [@YourTwitter](https://twitter.com/jguarShark) – cary.a.miller@gmail.com
+Cary Miller – [@jguarShark](https://twitter.com/jguarShark) – cary.a.miller@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
