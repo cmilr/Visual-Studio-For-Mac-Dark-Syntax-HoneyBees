@@ -15,7 +15,7 @@ by navigating to Preferences > Syntax Highlighting, and using the Add function. 
 
 ## Supports C#, XML, HTML, CSS
 
-Seeing as how I spend most of my time coding in C#, that is where I have concentrated my efforts — developing a readable
+Seeing as how I spend most of my coding time in C#, that is where I have concentrated my efforts — on developing a readable
 and attractive color scheme for C#. I'm also fairly happy with the XML highlighting.
 
 That said, if you'd like to contribute, feel free to work-up the HTML or CSS sections. I don't do much web development
