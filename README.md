@@ -1,21 +1,22 @@
 # Honey Bees: Syntax Highlighting Theme for Xamarin Studio
-> A colorful yet easy-on-the-eyes color scheme for Xamarin Studio.
+> A colorful yet easy-on-the-eyes color scheme for Xamarin Studio. I developed Honey Bees with 
+only one thing in mind — readability. I hope you find it helpful. 
 
-I developed Honey Bees with only one thing in mind — readability. I hope you find it helpful. 
+![](screenshot_class.png)
 
-![](screenshot.png)
+![](screenshot_method.png)
 
-![](screenshot_2.png)
+![](screenshot_xml.png)
 
 ## Installation
 
 Fork or download the repo, then load the HoneyBees.json file into your installation of Xamarin Studio 
-by navigating to Preferences > Syntax Highlighting, and using the Add function.
+by navigating to Preferences > Syntax Highlighting, and using the Add function. That's it, you're good to go.
 
-## C#, XML, HTML, CSS
+## Supports C#, XML, HTML, CSS
 
 Seeing as how I spend most of my time coding in C#, that is where I have concentrated my efforts — developing a readable
-and attractive color scheme for C#. I'm also quite happy with the XML highlighting.
+and attractive color scheme for C#. I'm also fairly happy with the XML highlighting.
 
 That said, if you'd like to contribute, feel free to work-up the HTML or CSS sections. I don't do much web development
 these days.
