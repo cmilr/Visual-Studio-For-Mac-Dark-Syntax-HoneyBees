@@ -6,8 +6,6 @@ only one thing in mind — readability. I hope you find it helpful.
 
 ![](screenshot_method.png)
 
-![](screenshot_xml.png)
-
 ## Installation
 
 Fork or download the repo, then load the HoneyBees.json file into your installation of Xamarin Studio 
@@ -23,7 +21,7 @@ these days.
 
 ## Meta
 
-Cary Miller – [@M_A_T_C_H_A](https://twitter.com/M_A_T_C_H_A) – cary.a.miller@gmail.com
+Cary Miller – [@vintageD18](https://twitter.com/vintageD18) – cary.a.miller@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
