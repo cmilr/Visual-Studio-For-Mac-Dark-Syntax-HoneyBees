@@ -25,4 +25,4 @@ Cary Miller – [@vintageD18](https://twitter.com/vintageD18) – cary.a.miller@
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/cmilr/github-link](https://github.com/cmilr/)
+[https://github.com/cmilr/](https://github.com/cmilr/)
