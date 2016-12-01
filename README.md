@@ -1,5 +1,5 @@
 # Honey Bees: Syntax Highlighting Theme for Xamarin Studio
-> A colorful yet easy-on-the-eyes color scheme for Xamarin Studio. I developed Honey Bees with 
+A colorful yet easy-on-the-eyes color scheme for Xamarin Studio. I developed Honey Bees with 
 only one thing in mind — readability. I hope you find it helpful. 
 
 ![](screenshot_class.png)
@@ -19,10 +19,11 @@ and attractive color scheme for C#. I'm also fairly happy with the XML highlight
 That said, if you'd like to contribute, feel free to work-up the HTML or CSS sections. I don't do much web development
 these days.
 
-## Meta
+# Thanks for using XamarinStudio Dark Syntax HoneyBees!
 
-Cary Miller – [@vintageD18](https://twitter.com/vintageD18) – cary.a.miller@gmail.com
+### Contact
+- Email: cmilr.soft@gmail.com
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/cmilr/](https://github.com/cmilr/)
+### Social Media
+- Twitter: [@vintageD18](https://twitter.com/vintageD18)
+- GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
