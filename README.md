@@ -27,3 +27,6 @@ these days.
 ### Social Media
 - Twitter: [@vintageD18](https://twitter.com/vintageD18)
 - GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
+
+### License
+Distributed under the MIT license. See ``LICENSE`` for more information.
