@@ -1,4 +1,4 @@
-# Honey Bees: Syntax Highlighting Theme for Xamarin Studio
+# Honey Bees: Syntax Highlighting Theme for Xamarin Studio & Microsoft Visual Studio for Mac
 A colorful yet easy-on-the-eyes color scheme for Xamarin Studio. I developed Honey Bees with 
 only one thing in mind — readability. I hope you find it helpful. 
 
