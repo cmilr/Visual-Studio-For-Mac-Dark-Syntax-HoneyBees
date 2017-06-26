@@ -52,7 +52,7 @@
 		{"name": "Message Bubble Warning IconMargin", "color":"#ECE15B", "secondcolor":"#FFFFFF" }	],
 	"text":[
 		{"name": "Plain Text", "fore":"#FFFEE3", "back":"#3B3F3F" },
-		{"name": "Selected Text", "fore":"#FFFFFF", "back":"#795FA3" },
+		{"name": "Selected Text", "fore":"#FFFFFF", "back":"#5a398e" },
 		{"name": "Selected Text(Inactive)", "fore":"#6B5FA3", "back":"#49483E" },
 		{"name": "Collapsed Text", "fore":"#74705D" },
 		{"name": "Line Numbers", "fore":"#565651", "back":"#3B3F3F" },
