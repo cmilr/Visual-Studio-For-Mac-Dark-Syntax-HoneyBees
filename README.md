@@ -2,6 +2,9 @@
 A colorful yet easy-on-the-eyes color scheme for Xamarin Studio. I developed Honey Bees with 
 only one thing in mind — readability. I hope you find it helpful. 
 
+## Bug Note:
+**Visual Studio for Mac** is currently running our theme a bit on the buggy side. It works, and looks good, but not as good as it should, because VS isn't respecting all of the tags in our theme. I've reported the issue to Microsoft, and am hoping for a fix. Stay tuned!
+
 ![](screenshot_class.png)
 
 ![](screenshot_method.png)
