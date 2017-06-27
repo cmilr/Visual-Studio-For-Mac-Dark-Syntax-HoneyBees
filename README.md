@@ -2,9 +2,6 @@
 A colorful yet easy-on-the-eyes color scheme for Xamarin Studio. I developed Honey Bees with 
 only one thing in mind — readability. I hope you find it helpful. 
 
-## Bug Note:
-**Visual Studio for Mac** is currently running our theme a bit on the buggy side. It works, and looks good, but not as good as it should, because VS isn't respecting all of the tags in our theme. I've reported the issue to Microsoft, and am hoping for a fix. Stay tuned!
-
 ![](screenshot_class.png)
 
 ![](screenshot_method.png)
@@ -21,6 +18,9 @@ and attractive color scheme for C#. I'm also fairly happy with the XML highlight
 
 That said, if you'd like to contribute, feel free to work-up the HTML or CSS sections. I don't do much web development
 these days.
+
+## Bugs
+**Visual Studio for Mac** is currently running our theme a bit on the buggy side. It works, and it still looks good, but not as good as it should, because VS isn't respecting all of the tags originally supported by Xamarin. I've reported the issue to Microsoft, and am hoping for a fix. Stay tuned!
 
 # Thanks for using XamarinStudio Dark Syntax HoneyBees!
 
