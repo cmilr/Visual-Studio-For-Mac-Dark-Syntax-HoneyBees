@@ -25,10 +25,10 @@ these days.
 # Thanks for using XamarinStudio Dark Syntax HoneyBees!
 
 ### Contact
-- Email: cmilr.soft@gmail.com
+- Email: cary.a.miller@gmail.com
 
 ### Social Media
-- Twitter: [@vintageD18](https://twitter.com/vintageD18)
+- Twitter: [@cmilr_](https://twitter.com/cmilr_)
 - GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
 
 ### License
