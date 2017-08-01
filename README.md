@@ -24,18 +24,12 @@ That said, if you'd like to contribute, feel free to work-up the HTML or CSS sec
 
 **Visual Studio for Mac** is currently running our theme a bit on the buggy side. It works, and it still looks good, but not as good as it should. **UPDATE:** the Visual Studio for Mac team has addressed this bug, and a fix is due in their next release. Stay tuned!
 
-## Release History
-* 1.0.0
-	* First version
-
-##
+## Questions? Drop Us a Line!
 
 ### Contact
 - Email: cary.a.miller@gmail.com
-
-### Social Media
 - Twitter: [@cmilr_](https://twitter.com/cmilr_)
-- GitHub: [https://github.com/cmilr/](https://github.com/cmilr/)
+- GitHub: [cmilr](https://github.com/cmilr/)
 
 ### License
 Distributed under the MIT license. See ``LICENSE`` for more information.
