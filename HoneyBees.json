@@ -52,7 +52,7 @@
 		{"name": "Message Bubble Warning IconMargin", "color":"#ECE15B", "secondcolor":"#FFFFFF" }	],
 	"text":[
 		{"name": "Plain Text", "fore":"#FFFEE3", "back":"#3B3F3F" },
-		{"name": "Selected Text", "fore":"#FFFFFF", "back":"#5a398e" },
+		{"name": "Selected Text", "fore":"#FFFFFF", "back":"#094d71" },
 		{"name": "Selected Text(Inactive)", "fore":"#6B5FA3", "back":"#49483E" },
 		{"name": "Collapsed Text", "fore":"#74705D" },
 		{"name": "Line Numbers", "fore":"#565651", "back":"#3B3F3F" },
@@ -98,7 +98,7 @@
 		{"name": "Keyword(Declaration)", "fore":"#79C3D4" },
 		{"name": "Keyword(Parameter)", "fore":"#79C3D4" },
 		{"name": "Keyword(Operator Declaration)", "fore":"#79C3D4" },
-		{"name": "Keyword(Other)", "fore":"#79C3D4", "weight":"Bold" },
+		{"name": "Keyword(Other)", "fore":"#79C3D4" },
 		{"name": "User Types", "fore":"#FFFEE3" },
 		{"name": "User Types(Enums)", "fore":"#79C3D4", "style":"Italic" },
 		{"name": "User Types(Interfaces)", "fore":"#FD9D1E" },
