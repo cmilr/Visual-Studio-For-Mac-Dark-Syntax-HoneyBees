@@ -28,7 +28,7 @@ That said, if you'd like to contribute, feel free to work-up the HTML or CSS sec
 
 ### Contact
 - Email: cary.a.miller@gmail.com
-- Twitter: [@cmilr_](https://twitter.com/cmilr_)
+- Twitter: [@cmillerco](https://twitter.com/cmillerco)
 - GitHub: [cmilr](https://github.com/cmilr/)
 
 ### License
