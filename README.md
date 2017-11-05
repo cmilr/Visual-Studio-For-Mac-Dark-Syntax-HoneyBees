@@ -8,7 +8,7 @@
 A colorful yet easy-on-the-eyes color scheme for Xamarin Studio & VS for Mac. I developed HoneyBees with
 only one thing in mind — readability. I hope you find it helpful.
 
-![](screenshot.png)
+![](screenshot.gif)
 
 ## Installation
 
